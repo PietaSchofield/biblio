@@ -1,0 +1,12 @@
+alias zotero="/usr/local/Zotero_linux-x86_64/zotero"
+alias la="ls -a"
+alias ll="ls -l"
+alias lx="ls -la"
+alias tm="tmux"
+alias tl="tmux list-sessions"
+alias ta="tmux attach -t "
+alias om="rclone --vfs-cache-mode writes mount OneDriveMe: /media/pietas/onedrive/me"
+alias ol="rclone --vfs-cache-mode writes mount OneDriveUoL: /media/pietas/onedrive/ul"
+alias os="rclone --vfs-cache-mode writes mount SharePointCPRD: /media/pietas/cprdsp"
+export MYS="tvc15_LIVERpool"
+PROMPT_DIRTRIM=1
